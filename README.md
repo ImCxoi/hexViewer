@@ -1,5 +1,5 @@
 # hexViewer
-A skyblock (or otherwise) tooltip display for dyed armors hex value
+A skyblock (or otherwise) tooltip for displaying dyed armors hex value
 
 shows the hex in the color of the hex! 
 
